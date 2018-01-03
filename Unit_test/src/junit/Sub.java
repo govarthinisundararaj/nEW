@@ -17,7 +17,7 @@ public class Sub {
 	}
 public int subtraction() {
 	return a-b;
-}//G
+}//sample
 public String combine() {
 	return c+d;
 }
